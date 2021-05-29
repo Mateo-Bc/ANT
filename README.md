@@ -1,5 +1,5 @@
 # ITS - Programación
-##Aplicación de Nuevas Tecnologías
+## Aplicación de Nuevas Tecnologías
 
 Alumno: Mateo Becette Cura
 Curso: 7°C - B1
